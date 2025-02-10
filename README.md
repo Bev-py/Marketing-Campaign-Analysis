@@ -27,4 +27,4 @@ Provide recommendations.
 * Create more targeted campaigns to customers above the age of 40 as they are the bulk of customers.
 * Focus on improving revenue from Mexico as it is the least performing country by revenue.
 
-[Dashboard]![image alt](https://github.com/Bev-py/Marketing-Campaign-Analysis/blob/4024fe1eb307159e7ed22e3d763f60c175568ab3/MavenDataDashboard.jpg)
+#### Dashboard![image alt](https://github.com/Bev-py/Marketing-Campaign-Analysis/blob/4024fe1eb307159e7ed22e3d763f60c175568ab3/MavenDataDashboard.jpg)
